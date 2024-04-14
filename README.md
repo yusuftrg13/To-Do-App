@@ -1,4 +1,5 @@
 # To-Do-App
+Javascript bilgilerimi pekiştirmek için html css js ile basit bir todo-app kodu yazdım ekle butonu ile eklemeler yapılıyor sil butonu ile görevleri silebilirsiniz
 ![ss1](https://github.com/yusuftrg13/To-Do-App/assets/132002974/d8849bd4-d9b1-4a77-a952-5ab5b275397d)
 
 ![ss3](https://github.com/yusuftrg13/To-Do-App/assets/132002974/4784bb53-ff1c-446c-aa99-1b0428a06c50)
